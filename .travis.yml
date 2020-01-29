@@ -1,4 +1,10 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+{
+  "language": "ruby",
+  "os": [
+    "linux"
+  ],
+  "rvm": [
+    "2.2",
+    "jruby"
+  ]
+}
