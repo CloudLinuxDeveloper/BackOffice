@@ -1,9 +1,10 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
-<<<<<<< HEAD
-
-
-=======
->>>>>>> c08161e3d6955d1b03d9acd95787a0bbd33b5270
+{
+  "language": "ruby",
+  "os": [
+    "linux"
+  ],
+  "rvm": [
+    "2.2",
+    "jruby"
+  ]
+}
